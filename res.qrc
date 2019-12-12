@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/normal">
+        <file>res/surface0000.png</file>
+        <file>res/surface0001.png</file>
+        <file>res/surface0002.png</file>
+        <file>res/surface0003.png</file>
+        <file>res/surface0004.png</file>
+        <file>res/surface0005.png</file>
+        <file>res/surface0006.png</file>
+        <file>res/surface0007.png</file>
+        <file>res/surface0008.png</file>
+        <file>res/surface0009.png</file>
+    </qresource>
+    <qresource prefix="/drag">
+        <file>res/surface0091.png</file>
+        <file>res/surface0092.png</file>
+        <file>res/surface0093.png</file>
+    </qresource>
+    <qresource prefix="/hat">
+        <file>res/surface3000.png</file>
+        <file>res/surface3001.png</file>
+        <file>res/surface3002.png</file>
+        <file>res/surface3003.png</file>
+        <file>res/surface3004.png</file>
+        <file>res/surface3005.png</file>
+        <file>res/surface3006.png</file>
+        <file>res/surface3007.png</file>
+    </qresource>
+    <qresource prefix="/clothes">
+        <file>res/surface3100.png</file>
+        <file>res/surface3101.png</file>
+        <file>res/surface3102.png</file>
+        <file>res/surface3103.png</file>
+        <file>res/surface3200.png</file>
+        <file>res/surface3201.png</file>
+        <file>res/surface3202.png</file>
+        <file>res/surface3203.png</file>
+    </qresource>
+    <qresource prefix="/blink">
+        <file>res/surface1003.png</file>
+        <file>res/surface1004.png</file>
+    </qresource>
+</RCC>
